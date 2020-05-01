@@ -5,7 +5,7 @@
 * Tensorflow
 * Jupyter Notebook
 ## Alternate Prerequisites
-Try the Google Colab [here]()
+Try the Google Colab [here](https://colab.research.google.com/)
 ## WSL Installation
 Open Windows Power Shell and Run the following command
 ```
