@@ -33,7 +33,7 @@ python3 -m venv my-project-env
 ```
 source my-project-env/bin/activate
 ```
-### Installing 
+### Installing Tensorflow
 ```
 pip3 install tensorflow
 ```
