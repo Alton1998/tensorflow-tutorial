@@ -13,4 +13,5 @@ pip3 install matplotlib
 
 ```
 !pip install -q sklearn
+%tensorflow_version 2.x
 ```

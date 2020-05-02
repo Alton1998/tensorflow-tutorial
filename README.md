@@ -32,6 +32,7 @@ python3.6
 ### Create a Virtual Environment
 
 ```
+pip3 install --upgrade pip
 sudo apt install python3-venv
 python3 -m venv my-project-env
 ```
