@@ -6,6 +6,10 @@
 * Jupyter Notebook
 ## Alternate Prerequisites
 Try the Google Colab [here](https://colab.research.google.com/)
+To import tensorflor 2.0 in the notebook try running the following:
+```
+%tensorflow_version 2.x
+```
 ## WSL Installation
 Open Windows Power Shell and Run the following command
 ```
