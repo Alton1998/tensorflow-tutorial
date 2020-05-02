@@ -1,2 +1,2 @@
 tensorflow/
-tensorflow-examples/.ipynb_checkpoints
+*.ipynb_checkpoints
